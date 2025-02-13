@@ -32,3 +32,11 @@ The project is organized as follows:
 ## **Files in This Repository**
 - `vehicles.xlsm`: The raw dataset containing sales, models, range data, and EV census data.
 - `EV-Answers.xlsx`: The final Excel file with analysis and answers to key questions.  
+
+## **Legend**
+- **FFV**: Flexible fuel vehicle (runs on biofuels or gas-biofuel mixtures).
+- **HEV**: Hybrid electric vehicle.
+- **CNG**: Compressed natural gas.
+- **EV**: Electric vehicle.
+- **PHEV**: Plug-in hybrid electric vehicle.
+- **PEV**: Plug-in electric vehicle (includes PHEVs and EVs).
